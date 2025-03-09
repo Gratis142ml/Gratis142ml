@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=initcodeexemplos&color=9745F5)
+
+
 - 👋 Seja Bem vindo ao meu github -  @Gratis142ml
 
 [![Gratis142ml's github stats](https://github-readme-stats.vercel.app/api?username=Gratis142ml&show_icons=true&&theme=radical&hide=["contribs","issues"])](https://github.com/Gratis142ml)
